@@ -1,0 +1,39 @@
+.pic3{
+    width: 150px;
+    float: left; 
+    padding-right: 60px;
+}
+h{
+    font-size: 50px;
+    display: block;
+}
+.pic2{
+    width: 250px; 
+    display: inline;
+    
+}
+.pic1{
+    width: 250px; 
+    display: inline;
+    position: relative;
+    left: -23px;
+}
+.pic0{
+    width: 250px; 
+    display: inline;
+    position: relative;
+    left: -53px;
+}
+a{
+    font-family: sans-serif;
+}
+p{
+    font-family: sans-serif;
+}
+.button1{
+    color: blue;
+    text-decoration:none;
+}
+.button1:hover{
+    text-decoration: underline;
+}
